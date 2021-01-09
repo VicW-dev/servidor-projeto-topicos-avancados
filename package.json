@@ -1,0 +1,15 @@
+{
+  "name": "smartlocks",
+  "version": "1.0.0",
+  "description": "Projeto da disciplina de Tópicos Avançados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Kauê da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.11"
+  }
+}
